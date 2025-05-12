@@ -1,0 +1,31 @@
+body{
+    background-color: #f2f6ff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: rgb(48, 16, 227);
+    color: black;
+    padding: 50px;
+    text-align: center;
+    text-decoration: solid;
+}
+nav{
+    background-color: black;
+    
+    padding: 20px 11px 8px 0px;
+    text-align: center;
+    text-size-adjust: 10%;
+    gap: 20%;
+    text-decoration: line-through;
+    margin-left: 20px;
+    position: relative;
+    box-sizing: border-box;
+
+}
+footer{
+    color: aquamarine;
+    background-color: maroon;
+}
