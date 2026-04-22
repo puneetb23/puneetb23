@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi, I'm Puneet
+- IT Diploma Student
+- Skills: Python, HTML, CSS
+- Interested in Web Development
 
 <!--
 **puneetb23/puneetb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
